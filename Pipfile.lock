@@ -360,7 +360,7 @@
                 "sha256:c6d21096774ecb9639acad41b86b7706e52ba3bf1dc13ea4ed9ad593d47e24c7"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==0.19.1"
+            "version": "==0.27.0"
         },
         "threadpoolctl": {
             "hashes": [
